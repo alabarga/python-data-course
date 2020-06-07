@@ -1,3 +1,5 @@
-https://github.com/fastai/fastbook
-https://www.deeplearningbook.org/
-https://mml-book.github.io/
+- https://github.com/fastai/fastbook
+- https://www.deeplearningbook.org/
+- https://mml-book.github.io/
+- https://github.com/DataScienceUB/introduction-datascience-python-book
+- https://greenteapress.com/wp/think-bayes/
