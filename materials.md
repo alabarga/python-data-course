@@ -4,6 +4,7 @@
 ## Programming
 - Python + Jupyter + Git 
   - https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
+  - https://github.com/codingforentrepreneurs/30-Days-of-Python
 - Python data types
 - Python strings
 - Python functions
@@ -37,28 +38,63 @@
   - https://github.com/nick-gould/Monte-Carlo-Pi
 ## Machine learning
 - Machine learning + Git/DVC
+  - https://towardsdatascience.com/teaching-the-data-science-process-f1e9d6f87ad5
   - https://medium.com/analytics-vidhya/your-ultimate-data-mining-machine-learning-cheat-sheet-9fce3fa16
   - https://medium.com/dataseries/an-easy-guide-to-choose-the-right-machine-learning-algorithm-for-your-task-b0f6d77aab75
   - https://github.com/woobe/h2o_tutorials/tree/master/introduction_to_machine_learning
+  - https://github.com/lewtun/dslectures/tree/b272315b725faf8c002177c28f601230195d5da1/notebooks
+  - https://github.com/DataScienceUB/introduction-datascience-python-book
+  - https://github.com/susanli2016/Machine-Learning-with-Python
+  - https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti
+  - https://github.com/rasbt/stat479-machine-learning-fs19/
+  - https://github.com/MSc-in-Data-Science/class_material
+  - https://github.com/PythonWorkshop/intro-to-sklearn
+  - https://medium.com/@mdasghar1294/basic-machine-learning-concepts-regression-classification-and-clustering-66a216dac9cd
+  - https://github.com/aswinzz/Machine-Learning-Algorithms
 - Feature engineering
   - https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+  - https://medium.com/towards-artificial-intelligence/feature-selection-and-dimensionality-reduction-using-covariance-matrix-plot-b4c7498abd07
+  - https://towardsdatascience.com/feature-selection-techniques-for-classification-and-python-tips-for-their-application-10c0ddd7918b
+  - https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e
+  - https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2
+  - https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223
+  - https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning
 - Regression
+  - https://towardsdatascience.com/regression-an-explanation-of-regression-metrics-and-what-can-go-wrong-a39a9793d914
   - https://medium.com/analytics-vidhya/deep-dive-into-ml-algorithms-logistic-regression-4588ce8fa487
   - https://towardsdatascience.com/support-vector-machines-svm-clearly-explained-a-python-tutorial-for-classification-problems-29c539f3ad8
+  - https://hackernoon.com/practical-machine-learning-ridge-regression-vs-lasso-a00326371ece
+  - https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b
 - Classification
   - https://medium.com/@gabrielziegler3/multiclass-multilabel-classification-with-xgboost-66195e4d9f2d
+  - https://medium.com/machine-learning-researcher/naive-bayes-classifier-in-machine-learning-8d77b2fd1434
+  - https://github.com/mahsa-teimourikia/DecisionTreesAndRandomForestsInPython
+  - https://www.geeksforgeeks.org/naive-bayes-classifiers/
+  - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+  - https://www.python-course.eu/Decision_Trees.php
+  
 - CV, tuning, balanced
   - [Machine bias](https://github.com/alabarga/compas-analysis)
   - [Undersampling Algorithms for Imbalanced Classification](https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-classification/)
+  - https://github.com/mbilalzafar/fair-classification
+  - https://towardsdatascience.com/ensemble-learning-using-scikit-learn-85c4531ff86a
+  - https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+  - https://towardsdatascience.com/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725
+  - https://medium.com/@saeedAR/smote-and-near-miss-in-python-machine-learning-in-imbalanced-datasets-b7976d9a7a79
+  - https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28
+  - https://medium.com/@jackstalfort/hyperparameter-tuning-using-grid-search-and-random-search-f8750a464b35
 - Dimensionality reduction
+  - https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-01-20-PCA%20using%20python.ipynb
 - Clustering
+  - https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html
 
 ## Advanced data analysis
 - Time series
+  - https://github.com/acse-2019/ACSE-8/blob/1ee10c462882c5eb11446add21ccdfabff64be37/Implementation/practical_5/morning/Lecture5-Exercises.ipynb
 - Network analysis
 - Geospatial analysis
   - https://github.com/datapartnership/covid19
-
+  - https://developers.arcgis.com/python/guide/part6-solve-location-allocation/
 ## Agile
   - https://medium.com/y-data-stories/creating-reproducible-data-science-workflows-with-dvc-3bf058e9797b
   - https://dvc.org/doc/tutorials/pipelines
@@ -69,6 +105,8 @@
   - https://medium.com/analytics-vidhya/deploy-your-machine-learning-model-on-docker-ee2b931e133c
 ## Deep learning
 - https://www.deeplearningbook.org/
+- https://telecombcn-dl.github.io/dlai-2019/
+- https://github.com/telecombcn-dl/dlai-2019
 - Text analytics + Deploy
   - https://towardsdatascience.com/fse-2b1ffa791cf9
   - https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
@@ -79,12 +117,17 @@
   - https://notebooks.quantumstat.com/
   - https://github.com/ShawnyXiao/TextClassification-Keras
   - https://towardsdatascience.com/detecting-hate-tweets-twitter-sentiment-analysis-780d8a82d4f6
+  - https://github.com/anyl580/lectures/blob/8414e1369f6d1a6fdfde3f976017b06a935bdf7d/11-natural-language-understanding/nlu.ipynb
 - Image processing + Cloud
   - https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/
   - https://github.com/ecaradec/humble-yolo
   - https://blog.insightdatascience.com/how-to-train-your-own-yolov3-detector-from-scratch-224d10e55de2
   - https://github.com/ericsujw/InstColorization
   - https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+  - https://github.com/anjanatiha/Artist-Prediction-from-Artworks
+- Music
+  -  https://colab.research.google.com/drive/1Zo6iSPIi6SjOAL7wg8yzVWkS9mjLgjI-
+  - https://github.com/ybayle/awesome-deep-learning-music
 - reinforcement learning
   - https://github.com/openai/gym/blob/master/gym/envs/box2d/lunar_lander.py
   - https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
@@ -95,6 +138,7 @@
 - https://github.com/peiriant
 - Recommender systems
   - https://medium.com/@fortes.arthur/building-recommender-systems-engines-with-a-python-framework-5b4d29925c28
+  - http://web.stanford.edu/~larmona/feat2vec/
 - Chatbots
   - https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2
   - https://towardsdatascience.com/generative-chatbots-using-the-seq2seq-model-d411c8738ab5
@@ -103,3 +147,6 @@
   - http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html 
 - E-Health 
   - https://towardsdatascience.com/pima-indian-diabetes-prediction-7573698bd5fe
+  - https://github.com/JNYH/diabetes_classifier
+  - https://towardsdatascience.com/building-a-machine-learning-classifier-model-for-diabetes-4fca624daed0
+  - https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8
