@@ -35,7 +35,10 @@
 - Calculus
   - https://www.datalorax.com/post/exploring-gradient-descent/
 - Bayesian
+  - https://greenteapress.com/wp/think-bayes/
   - https://github.com/nick-gould/Monte-Carlo-Pi
+  - https://speakerdeck.com/psinger/introduction-to-bayesian-statistics
+  - https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 ## Machine learning
 - Machine learning + Git/DVC
   - https://towardsdatascience.com/teaching-the-data-science-process-f1e9d6f87ad5
@@ -51,6 +54,7 @@
   - https://github.com/PythonWorkshop/intro-to-sklearn
   - https://medium.com/@mdasghar1294/basic-machine-learning-concepts-regression-classification-and-clustering-66a216dac9cd
   - https://github.com/aswinzz/Machine-Learning-Algorithms
+
 - Feature engineering
   - https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
   - https://medium.com/towards-artificial-intelligence/feature-selection-and-dimensionality-reduction-using-covariance-matrix-plot-b4c7498abd07
@@ -60,6 +64,7 @@
   - https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223
   - https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning
 - Regression
+  - https://anujdutt9.github.io/linear-regression-from-scratch
   - https://towardsdatascience.com/regression-an-explanation-of-regression-metrics-and-what-can-go-wrong-a39a9793d914
   - https://medium.com/analytics-vidhya/deep-dive-into-ml-algorithms-logistic-regression-4588ce8fa487
   - https://towardsdatascience.com/support-vector-machines-svm-clearly-explained-a-python-tutorial-for-classification-problems-29c539f3ad8
@@ -72,7 +77,7 @@
   - https://www.geeksforgeeks.org/naive-bayes-classifiers/
   - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
   - https://www.python-course.eu/Decision_Trees.php
-  
+  - https://github.com/avehtari/BDA_course_Aalto
 - CV, tuning, balanced
   - [Machine bias](https://github.com/alabarga/compas-analysis)
   - [Undersampling Algorithms for Imbalanced Classification](https://machinelearningmastery.com/undersampling-algorithms-for-imbalanced-classification/)
@@ -85,13 +90,24 @@
   - https://medium.com/@jackstalfort/hyperparameter-tuning-using-grid-search-and-random-search-f8750a464b35
 - Dimensionality reduction
   - https://github.com/ostwalprasad/ostwalprasad.github.io/blob/master/jupyterbooks/2019-01-20-PCA%20using%20python.ipynb
+  - https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+  - https://github.com/michaelhaugan/PCA-vs.-t-SNE
+  - https://medium.com/@rinu.gour123/dimensionality-reduction-in-machine-learning-dad03dd46a9e
 - Clustering
   - https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html
-
+  - https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1
 ## Advanced data analysis
 - Time series
   - https://github.com/acse-2019/ACSE-8/blob/1ee10c462882c5eb11446add21ccdfabff64be37/Implementation/practical_5/morning/Lecture5-Exercises.ipynb
+  - https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA
+  - https://towardsdatascience.com/arima-forecasting-in-python-90d36c2246d3
+  - https://timeseriesclassification.com/
+  - https://github.com/ikding/pycon_time_series
+  - https://github.com/rouseguy/TimeSeriesAnalysiswithPython
+  - https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython
 - Network analysis
+  - https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
+  - https://github.com/dimgold/pycon_social_networkx
 - Geospatial analysis
   - https://github.com/datapartnership/covid19
   - https://developers.arcgis.com/python/guide/part6-solve-location-allocation/
@@ -109,6 +125,7 @@
 - https://github.com/telecombcn-dl/dlai-2019
 - Text analytics + Deploy
   - https://towardsdatascience.com/fse-2b1ffa791cf9
+  - https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76
   - https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
   - [Cheat Sheet for NLP](https://towardsdatascience.com/cheat-sheet-for-nlp-a-summary-of-my-nlp-learning-journey-thus-far-6ee753943890)
   - https://github.com/VincentK1991/BERT_summarization_1
@@ -135,10 +152,17 @@
 ## Projects
 - https://github.com/schoobani/goodreads-analysis
 - https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc
+- https://github.com/ajaysh2193/AirQualityIndexPrediction
 - https://github.com/peiriant
 - Recommender systems
   - https://medium.com/@fortes.arthur/building-recommender-systems-engines-with-a-python-framework-5b4d29925c28
   - http://web.stanford.edu/~larmona/feat2vec/
+  - https://github.com/ajaysh2193/Netflix-Movie-Recommendation-System
+  - https://towardsdatascience.com/building-a-book-recommendation-system-using-keras-1fba34180699
+  - https://github.com/jhihan/Hybrid-Recommendation-System
+  - https://github.com/s-miller/Content-based-recommender-system-using-Movielens-dataset
+  - https://medium.com/analytics-vidhya/implementation-of-a-movies-recommender-from-implicit-feedback-6a810de173ac
+  - https://medium.com/@julsimon/building-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker-cedbfc8c93d8
 - Chatbots
   - https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2
   - https://towardsdatascience.com/generative-chatbots-using-the-seq2seq-model-d411c8738ab5
@@ -150,3 +174,5 @@
   - https://github.com/JNYH/diabetes_classifier
   - https://towardsdatascience.com/building-a-machine-learning-classifier-model-for-diabetes-4fca624daed0
   - https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8
+- Social Networks
+  - https://github.com/viyatgandhi/Online-Social-Networking
