@@ -5,6 +5,8 @@
 - Python + Jupyter + Git 
   - https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52
   - https://github.com/codingforentrepreneurs/30-Days-of-Python
+  - https://medium.com/learning-machine-learning/present-your-data-science-projects-with-jupyter-slides-75f20735eb0f
+  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 - Python data types
 - Python strings
 - Python functions
@@ -22,14 +24,26 @@
   - https://medium.com/swlh/your-ultimate-python-visualization-cheat-sheet-663318470db
   - https://github.com/BritishGeologicalSurvey/geopandas-demo/blob/master/GeoPandas_demo.ipynb
   - https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f
+  - https://vallandingham.me/altair_intro.html
+  - https://github.com/vlandham/vlandham.github.com/blob/master/_posts/2018-03-23-altair_intro.md
+  - https://github.com/clair513/Seaborn-Tutorial
+  - https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac
+  - https://python-graph-gallery.com/315-a-world-map-of-surf-tweets/
+  - https://github.com/StephanieStallworth/Exploratory_Data_Analysis_Visualization_Python
+  - https://github.com/DataForScience/DataViz
 ## Maths
 - https://mml-book.github.io/
 - Descriptive statistics
 - Probability
   - https://towardsdatascience.com/death-sentences-and-race-ethnicity-biases-4712e439a8c7
+  - https://towardsdatascience.com/conditional-probability-with-a-python-example-fd6f5937cd2
 - Discrete distributions 
 - Continuous distributions
+  - https://towardsdatascience.com/discover-the-strength-of-monotonic-relation-850d11f72046
+  - https://online.stat.psu.edu/stat200/book/export/html/237
+  - https://medium.com/analytics-vidhya/kendall-rank-correlation-python-19524cb0e9a0
 - Hypothesis testing
+  - https://sociologicalgobbledygook.com/practical-basic-hypothesis-tests.html
 - Numpy algebra
   - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Calculus
@@ -63,6 +77,7 @@
   - https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2
   - https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223
   - https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning
+  - https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
 - Regression
   - https://anujdutt9.github.io/linear-regression-from-scratch
   - https://towardsdatascience.com/regression-an-explanation-of-regression-metrics-and-what-can-go-wrong-a39a9793d914
